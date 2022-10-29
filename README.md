@@ -1,8 +1,8 @@
-# Getting Started with CodeJEE React App
+# Getting Started with CodeJEE React APP 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts for running code
 
 In the project directory, you can run:
 
